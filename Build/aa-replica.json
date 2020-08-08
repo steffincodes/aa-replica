@@ -1,0 +1,16 @@
+{
+"companyName": "SteffinRayen",
+"productName": "aa-replica",
+"productVersion": "0.1",
+"dataUrl": "aa-replica.data.unityweb",
+"wasmCodeUrl": "aa-replica.wasm.code.unityweb",
+"wasmFrameworkUrl": "aa-replica.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
